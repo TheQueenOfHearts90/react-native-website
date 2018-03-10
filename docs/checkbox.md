@@ -69,6 +69,7 @@ Used to locate this view in end-to-end tests.
 
 The value of the checkbox. If true the checkbox will be turned on. Default value is false.
 
-| Type | Required |
+| Type | Required
 | ---- | -------- |
-| bool | No       |
+| bool |true
+Les
